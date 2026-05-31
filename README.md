@@ -48,7 +48,7 @@ The TCRT IR sensor continuously detects the presence or absence of a vehicle by 
   ## Snaps of the Project
 
 <p align="center">
-  <img src="Parking_Sensor_Setup.jpeg" width="700">
+  <img src="Parking_Sensor_Setup.png" width="700">
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ The TCRT IR sensor continuously detects the presence or absence of a vehicle by 
 </p>
 
 <p align="center">
-  <img src="Parking_Detection_Output.jpeg" width="700">
+  <img src="Parking_Detection_Output.png" width="700">
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ The TCRT IR sensor continuously detects the presence or absence of a vehicle by 
 
 <p align="center">
   <a href="Parking_System_Demo2.mp4">
-    <img src="Parking_Detection_Output.jpeg" width="700">
+    <img src="Parking_Detection_Output.png" width="700">
   </a>
 </p>
 
